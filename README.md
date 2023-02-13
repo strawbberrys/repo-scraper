@@ -24,7 +24,7 @@ npm i -g ./
 After installation, simply run the ``scrape-repo`` command in your terminal with a github username.
 
 ```
-scrape-repo strawbberrys
+scrape-repos strawbberrys
 ```
 
 The repositories will then be downloaded to the path where you ran the command in a folder named repositories, inside of that folder will be the username of the person you scraped repositories from.

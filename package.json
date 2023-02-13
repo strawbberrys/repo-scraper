@@ -13,7 +13,7 @@
     "git-clone": "^0.2.0"
   },
   "bin": {
-    "scrape-repo": "./bin/index.js"
+    "scrape-repos": "./bin/index.js"
   },
   "preferGlobal": true
 }
