@@ -1,0 +1,19 @@
+{
+  "name": "repo-scraper",
+  "version": "1.0.0",
+  "description": "An npm tool to scrape all the repositories of a user and download them into a folder.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-clone": "^0.2.0"
+  },
+  "bin": {
+    "scrape-repo": "./bin/index.js"
+  },
+  "preferGlobal": true
+}
