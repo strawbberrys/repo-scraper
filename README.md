@@ -21,7 +21,7 @@ npm i -g ./
 
 ## Usage
 
-After installation, simply run the ``scrape-repo`` command in your terminal with a github username.
+After installation, simply run the ``scrape-repos`` command in your terminal with a github username.
 
 ```
 scrape-repos strawbberrys
